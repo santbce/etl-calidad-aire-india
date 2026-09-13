@@ -1,4 +1,4 @@
-# etl-calidad-aire-india
+# Samuel Flores y Santiago Becerra
 
 # ETL y análisis de la calidad del aire en India
 
