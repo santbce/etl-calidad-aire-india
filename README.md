@@ -323,7 +323,7 @@ Los principales resultados obtenidos fueron:
 - Los datos provienen de Kaggle y presentan una estructura previamente organizada.
 - Las correlaciones encontradas representan asociaciones y no causalidad.
 - El análisis solo incluye cinco ciudades de India.
-- No se incluyen variables meteorológicas o demográficas.
+
 
 ---
 
